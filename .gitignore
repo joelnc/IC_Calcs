@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Shapefiles etc
+*.cpg
+*.dbf
+*.sbn
+*.xml
+*.shx
+*.shp
+*.sbx
+*.prj
+
 # Distribution / packaging
 .Python
 build/
